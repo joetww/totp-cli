@@ -1,0 +1,16 @@
+{
+  "name": "totp-generator",
+  "version": "1.0.0",
+  "description": "TOTP Generator with Node.js and Blessed",
+  "main": "totp.js",
+  "scripts": {
+    "start": "node totp.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "otplib": "^12.0.0"
+  },
+  "author": "游小爸 <joetww@gmail.com>",
+  "license": "ISC"
+}
+
